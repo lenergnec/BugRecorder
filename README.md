@@ -1,0 +1,2 @@
+# BugRecorder
+Registros de bugs
